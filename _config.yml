@@ -1,0 +1,30 @@
+title: "Voices of Democracy"
+
+markdown: kramdown
+url: ""
+baseurl: "/voicesofdemocracy"
+disqus_short_name: disqus-demo-page
+
+plugins: 
+  - jekyll-paginate
+  - jemoji
+  - jekyll-image-size
+  
+paginate_path: "/page:num/"
+
+paginate: 5
+
+main_toc:
+  - title: Home
+    url: ""
+  - title: About
+    url: "about"
+
+
+defaults:
+  -
+    scope:
+      path: "_posts"
+    values:
+      layout: "post"
+
