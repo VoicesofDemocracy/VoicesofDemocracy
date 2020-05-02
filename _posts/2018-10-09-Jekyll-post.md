@@ -26,7 +26,7 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
 >
 > When something is important enough, you do it even if the odds are not in your favor.
 
-
+{% imagesize source:img %} >> <img src='/voicesofdemocracy/img/TEARGAS.jpg' width='350' >
 
 ### Header 3
 
@@ -44,7 +44,7 @@ GitHubPages::Dependencies.gems.each do |gem, version|
   s.add_dependency(gem, "= #{version}")
 end
 ```
-![teargas in Hong Kong](/voicesofdemocracy/img/TEARGAS.jpg) [850,]
+![teargas in Hong Kong](/voicesofdemocracy/img/TEARGAS.jpg) 
 
 #### Header 4
 
