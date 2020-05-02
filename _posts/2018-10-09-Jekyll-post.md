@@ -26,8 +26,8 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
 >
 > When something is important enough, you do it even if the odds are not in your favor.
 
-!<img src='/voicesofdemocracy/img/TEARGAS.jpg' width=850>
 
+<img src='/voicesofdemocracy/img/TEARGAS.jpg' .dimensions.width=850>
 
 ### Header 3
 
