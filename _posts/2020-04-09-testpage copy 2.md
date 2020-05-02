@@ -4,7 +4,7 @@ layout: post
 date: 2019-04-01
 description: A complete post.
 image: TEARGAS.jpg
-categories: ["HK government"] 
+categories: ["Chinese Revolutions"] ["Worker's Movements"]
 ---
 
 # Header 1 May 4th
