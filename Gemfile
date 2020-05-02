@@ -18,5 +18,7 @@ gem "plainwhite"
 
 gem 'jekyll-image-size','~> 1.2.1'
 
+gem 'jekyll-srcset'
+
 
 
