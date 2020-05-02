@@ -9,6 +9,7 @@ plugins:
   - jekyll-paginate
   - jemoji
   - jekyll-image-size
+  - jekyll-srcset
   
 paginate_path: "/page:num/"
 
