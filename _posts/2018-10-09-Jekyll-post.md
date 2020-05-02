@@ -28,7 +28,7 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
 
 
 <img src='/voicesofdemocracy/img/TEARGAS.jpg' width=850>
-{% Teargas in HK src='/voicesofdemocracy/img/TEARGAS.jpg' width="40" %}
+{% image_tag src='/voicesofdemocracy/img/TEARGAS.jpg' width="40" %}
 
 ### Header 3
 
