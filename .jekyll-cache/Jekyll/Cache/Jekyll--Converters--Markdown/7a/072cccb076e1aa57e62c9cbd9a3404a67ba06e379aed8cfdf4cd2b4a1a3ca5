@@ -1,90 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-  <meta name="description" content="">
-  <meta name="author" content="">
-
-
-  <title> Bauhinian Leaflets </title>
-
-  <link href="/BauhinianLeaflets/css/milo.css" rel="stylesheet">
-</head>
-
-<body>
- <header role="banner">
-    <nav class="navbar navbar-expand-md navbar-light bg-white absolute-top">
-      <div class="container">
-
-        <button class="navbar-toggler order-2 order-md-1" type="button" data-toggle="collapse" data-target="#navbar" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">
-          <span class="navbar-toggler-icon"></span>
-        </button>
-
-        <div class="collapse navbar-collapse order-3 order-md-2" id="navbar">
-          
-		  <ul class="navbar-nav mr-auto">
-		  
-			
-			    <li class="nav-item">
-            <a class="nav-link" href="/BauhinianLeaflets/">Home</a>
-          </li>
-          
-			
-			    <li class="nav-item">
-            <a class="nav-link" href="/BauhinianLeaflets/about">About</a>
-          </li>
-          
-						
-          	</ul>
-		  
-        </div>
-
-        <a class="navbar-brand mx-auto order-1 order-md-3" href="/BauhinianLeaflets">Bauhinian Leaflets</a>
-      </div>
-    </nav>
-
-  </header>
-
-
-  <main class="main pt-4" role="main">
-
-    <div class="container">
-
-      <div class="row">
-        <div class="col-md-9">
-
-          <article class="card mb-4">
-		  
-            <header class="card-header text-center">
-			
-              <div class="card-meta">
-                <span>Published on 04 May 2020</time></span> in
-                  
-                  
-                  <a href="/BauhinianLeaflets/categories/#Chinese Revolutions">Chinese Revolutions</a>
-                  
-                  
-              <div>
-			
-                <h1 class="card-title">The spirit of the May 4th movement</h1>
-
-            </header>
-			
-			
-            <a style="cursor:pointer;">
-              <img class="card-img" src="/BauhinianLeaflets/img/May4th1919/students at tiananmen.jpg" alt="" />
-            </a>
-            
-            
-            <div class="card-body">
-			<p>source: https://twitter.com/tongbingxue/status/1256855422855712769/photo/3</p>
-
-<hr />
-<hr />
-<hr />
-
-<h3 id="the-birth-of-a-movement">The Birth of a Movement:</h3>
+I"�Z<h3 id="the-birth-of-a-movement">The Birth of a Movement:</h3>
 <p>The date is May 4th, 1919. Over 4, 000 students from universities and colleges all around Beijing are marching in coordinated effort towards Tiananmen Square. As they march their aggressive political slogans fill the air:</p>
 
 <h4 id="外爭主權內除國賊"><strong>“外爭主權，內除國賊</strong></h4>
@@ -96,10 +10,6 @@
 <p>The situation comes to a head when the furious students break into the residence, beating up the government official inside and setting fire to the building. The police respond by violently beating the students. The day ends with 32 students arrested - one student later dies from injuries sustained at the hands of the police - and the students dispersing.</p>
 
 <p>This was the May 4th Incident, the act that inaugurated one of the greatest social movements in 20th Century China - the anti-imperialist and radically democratic May 4th Movement.</p>
-
-<hr />
-<hr />
-<hr />
 
 <p><img src="/BauhinianLeaflets/img/May4th1919/Students occupy tiananmen square.jpg" width="850" alt="rallying at tiananmen square. Source: https://www.reddit.com/r/100yearsago/comments/bkgfe6/may_4_1919_over_3000_students_from_universities/" /></p>
 
@@ -118,10 +28,6 @@
 
 <p>The May 4th Incident was in <strong>direct opposition</strong> to these long-standing colonial practices - hence their slogan of “Protect China’s Sovereignty!” as they marched. The passionately nationalistic students were acting on their frustrations towards China’s endemic exploitation at the hands of foreign powers, exemplified by the most recent treatment of Shandong.</p>
 
-<hr />
-<hr />
-<hr />
-
 <p><img src="/BauhinianLeaflets/img/May4th1919/students marching with banners.jpg" width="850" alt="Students marching with banners. Front: 'Vow to fight to return my Qingdao', Back: 'Abolish the unfair treaty, abolish the 21st treaty' Source: KK news" /></p>
 
 <p>Students marching with banners.</p>
@@ -138,28 +44,16 @@
 
 <p>The so-called ‘central government’ in Beijing - in reality it had virtually no authority outside of the capital - was completely impotent in controlling the chaos, and repressed the people it did rule. It was this same government that had acquiesced to imperialist powers over Shandong - the ‘National Traitors’ the students were calling out as they marched that day were the pro-Japan officials Cao Rulin, Zhang Zongxiang and Lu Zongyu in the Beijing government who had agreed with the Conference’s decision. Indeed, the official that was beaten that day on May 4th was Zhang Zongxiang; the building that was burned down, his temporary residence, belonged to Cao Rulin.</p>
 
-<hr />
-<hr />
-<hr />
-
-<p><img src="/BauhinianLeaflets/img/May4th1919/traitor caorulin poster.JPG" width="850" alt="A student holds a banner that calls Cao Rulin a traitor that sells out the country. Source: https://twitter.com/tongbingxue/status/1124575651049066496/photo/1" /></p>
+<p><img src="/BauhinianLeaflets/img/May4th1919/students at tiananmen.JPG" width="850" alt="A student holds a banner that calls Cao Rulin a traitor that sells out the country. Source: https://twitter.com/tongbingxue/status/1124575651049066496/photo/1" /></p>
 
 <p>A student holds a banner that calls Cao Rulin a traitor that sells out the country.</p>
 
 <p>Source: https://twitter.com/tongbingxue/status/1124575651049066496/photo/1</p>
 
-<hr />
-<hr />
-<hr />
-
 <h3 id="the-strike">The Strike:</h3>
 <p>The May 4th Incident, even though it ended in police suppression, was not the end for the students. As we in the modern day Hong Kong democracy movement must be intimately familiar with, police brutality often serves to invigorate rather than frighten, instilling feelings of sympathy and rage that easily translate into action. As with students in Hong Kong today, so with those students in Beijing a century ago - they were driven into action by the same feelings that we are motivated by today.</p>
 
 <p>It was thus that, on May 6th, the first citywide student organisation in Chinese history was formed in Beijing. In the weeks following its creation, the ‘Union of Secondary and Above Students’ worked to organise street speeches, a boycott of Japanese goods, and irregular student strikes. On May 19th its strength was on full display when <strong>25, 000 Beijing students</strong> went on a general student strike in spite of the Beijing government’s increasingly aggressive attempts to crackdown on their activities, including a ramping up of police presence and a ban on student publications.</p>
-
-<hr />
-<hr />
-<hr />
 
 <p><img src="/BauhinianLeaflets/img/May4th1919/Burn_Japanese_goods,_Tsinghua_School,_1919.jpg" width="700" alt="Students from Tsinghua University burn Japanese goods as a part of their boycotting efforts. Source: Wikimedia Commons" /></p>
 
@@ -177,10 +71,6 @@
 
 <p>Seems pretty similar to another social movement we know</p>
 
-<hr />
-<hr />
-<hr />
-
 <p>But events in Shanghai soon overtook even these dramatic mobilisation in Beijing. Inspired by the bravery of the Beijing students, as well as horrified by their treatment, it was already on May 6th that students across <strong>33 Shanghai campuses</strong> coordinated to hold a <strong>3, 000 person</strong> rally and march, later forming their own student organisation: ‘the Shanghai Student Union’. The Union was extraordinarily well organised: it drove massive propaganda campaigns to flood the streets with student street-side lectures and tens of thousands of leaflets, hosted extravagant marches and rallies and, following the example of Beijing, coordinated a general student strike on May 26th. Indeed, the discipline of the students themselves for the sake of their cause was nothing short of astonishing: their ideal daily schedules were ruthless and emulated military discipline, including waking up at 6:00AM and spending upwards of six hours each day for political activities while still retaining time for studying.</p>
 
 <p>The crowning achievement of the intense labour of the Shanghai students was the June 5th general strike, which was called in response to an incident a few days prior when hundreds of students in Beijing were beaten and arrested. It proceeded to paralyse all trade within the city for a week, with an estimated <strong>60, 000 - 100, 000 workers</strong> participating. Strikes also spread nationwide, to cities including Hangzhou and Tianjin.</p>
@@ -190,10 +80,6 @@
 <p>That is not to say the students did not play a leading role in the strike. While many of the workers and merchants who formed the core of the strike were genuinely angered by the same injustice’s that motivated the students, the students kept this core stable and coordinated. Through the crucial organisational apparatus of the Shanghai Student Union, the students practically replaced the duties of official authorities. Patrolling the streets in brigades and decked out in uniform and badges, the students “persuaded” (sometimes with intimidation) shopkeepers reluctant to forgo profits to join the strike, prevented Chinese workers from attacking Japanese nationals so as to stop the strike from devolving into anarchy, and distributed thousands of leaflets on every wall and corner to urge citizens to join the strike and remind them of the need to maintain order.</p>
 
 <p>However, in the final analysis the driving force of the movement was the bargaining power of the workers, which was only guided, not replaced by, the activities of the students.</p>
-
-<hr />
-<hr />
-<hr />
 
 <p><img src="/BauhinianLeaflets/img/May4th1919/marching.jpg" width="850" alt="Beijing Students march down the street. Source: https://twitter.com/tongbingxue/status/1256855422855712769/photo/4" /></p>
 
@@ -213,10 +99,6 @@
 <p>The roots of the May 4th Movement’s democratic orientation lay in an accompanying and deeply intertwined sister movement, the New Culture Movement. Launched by primarily young intellectuals a few years prior to the May 4th Movement, the participants of the New Culture Movement were deeply concerned with China’s national weakness. However, while they criticised imperialism and the incompetent national government, they identified the main source of the nation’s woes deeper than any surface economic and political issues.</p>
 
 <p>To the New Culture Movement intellectuals, China was sick at its cultural core. China’s Confucian and feudal traditions, through their conservative tents of respecting authority and hierarchy, were massive obstacles to creating a democratic egalitarian China. In addition, they smothered the technological innovation that could modernise away China’s economic poverty. Further, the social practices that Chinese culture justified, such as the patriarchal Chinese family, concubinage and foot binding, were viewed as oppressive towards women and individual freedom. All these archaic traditions were to be cast away in favour of the model of the progressive West for the sake of China’s national strength.</p>
-
-<hr />
-<hr />
-<hr />
 
 <p><img src="/BauhinianLeaflets/img/May4th1919/la jeunesse.jpg" height="500" alt="New Youth Journal, Source: Wikimedia Commons" /></p>
 
@@ -241,10 +123,6 @@
 
 <h3 id="the-may-4th-legacy-in-china-and-hong-kong-today">The May 4th Legacy in China and Hong Kong Today:</h3>
 
-<hr />
-<hr />
-<hr />
-
 <p><img src="/BauhinianLeaflets/img/May4th1919/hk exibition of may 4th flags.jpeg" width="800" alt="An HK exibition room displaying May 4th banners and Slogans. Source: Quartz:" /></p>
 
 <p>An HK exibition room displaying May 4th banners and Slogans.</p>
@@ -261,10 +139,6 @@
 <p>The May 4th Movement was indeed intensely nationalistic, but its nationalism was a critical one that is completely antithetical to the CCP’s dreams of authoritarian Chinese hegemony. After all, though criticising imperialist powers, the main opponent of the May 4th students was ultimately their own national government which had betrayed the interests of the people. In addition, they tied their nationalism to a desire for a democratic China, since only democracy could make the nation strong. Indeed, the New Culture Movement believed that the source of China’s weakness was precisely its traditional institutions and culture - hardly a view that led to mindless praise of all that was Chinese, least of all the Chinese government.</p>
 
 <p>Most importantly, the example of the May 4th Movement reveals the potential for mass resistance from Chinese people themselves. One purpose of this historical series is to combat the too often heard view that the Mainland Chinese are ‘brainwashed nationalists’ with no potential for autonomous revolutionary activity. We point out that the May 4th Movement stands as an awkward contradiction to this view. The movement was fueled precisely by nationalism, if with a critical character, and had great achievements despite severe repression from the State. The Hong Kong movement is handicapping itself by accepting Chinese State propaganda of a docile Chinese populace as a fact - this only blinds ourselves to opportunities for the struggle in Hong Kong to fuel a democratic movement like May 4th in Mainland China.</p>
-
-<hr />
-<hr />
-<hr />
 
 <p><img src="/BauhinianLeaflets/img/May4th1919/hello mr democracy.png" width="800" alt="The spirit of May 4th lived on in 1989. Source: https://www.pinterest.com/pin/338121884516402451/" /></p>
 
@@ -294,123 +168,4 @@
 
 <p>source: AP Photo/Vincent Yu</p>
 
-
-            <hr />
-			<div class="pg-center">
-
-<div class="comments">
-  <h2>Comments</h2>
-  <div id="disqus_thread"></div>
-  <script>
-var disqus_config = function () {
-  this.page.url = 'http://localhost:4000/chinese%20revolutions/2020/05/04/The-May-4th-Movement.html'; // Replace PAGE_URL with your page's canonical URL variable
-  this.page.identifier = '/chinese%20revolutions/2020/05/04/The May 4th Movement'; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
-};
-(function() {
-  var d = document, s = d.createElement('script');
-  s.src = '//disqus-demo-page.disqus.com/embed.js';
-  s.setAttribute('data-timestamp', +new Date());
-  (d.head || d.body).appendChild(s);
-})();
-  </script>
-  <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
-</div>
-
-</div>
-<style>
-.pg-center{
-background:#ffffff;
-padding-top:2rem;
-padding-bottom:2rem;
-margin-top:2rem;
-}
-</style>
-
-		<hr />		    
-            </div>
-          </article><!-- /.card -->
-        </div>
-		        <div class="col-md-3 ml-auto">
-
-
-		  
-          <aside class="sidebar sidebar-sticky">
-            <div class="card mb-4">
-              <div class="card-body">
-                <h4 class="card-title">Categories</h4>
-				
-				    
-                <a class="btn btn-light btn-sm mb-1" href="/BauhinianLeaflets/categories/#Chinese Revolutions">
-                Chinese Revolutions</a>
-				
-              </div>
-            </div>
-            <div class="card mb-4">
-              <div class="card-body">
-                
-				<h4 class="card-title">Latest posts</h4>
-				
-                <a href="/BauhinianLeaflets/chinese%20revolutions/2020/05/04/The-May-4th-Movement.html" class="d-inline-block">
-                  <h4 class="h6">The spirit of the May 4th movement</h4>
-                  
-				  <img class="card-img" src="/BauhinianLeaflets/img/May4th1919/students at tiananmen.jpg" alt="" />
-				  
-                </a>
-				<br />
-                <time>On 04 May 2020</time> in Chinese Revolutions
-				<hr />
-				
-              </div>
-            </div>
-          </aside>
-
-        </div>
-	
-      </div>
-    </div>
-  </main>
-<!--   <div class="site-newsletter">
-    <div class="container">
-      <div class="text-center">
-        <h3 class="h4 mb-2">Subscribe to our newsletter</h3>
-        <p class="text-muted">Join our monthly newsletter and never miss out on new stories and promotions.</p>
-
-        <div class="row">
-          <div class="col-xs-12 col-sm-9 col-md-7 col-lg-5 ml-auto mr-auto">
-            <div class="input-group mb-3 mt-3">
-              <input type="text" class="form-control" placeholder="Email address" aria-label="Email address">
-              <span class="input-group-btn">
-                <button class="btn btn-secondary" type="button">Subscribe</button>
-              </span>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
- -->
-  <footer class="site-footer bg-darkest" role="contentinfo">
-    <div class="container">
-
-<!--       <ul class="nav justify-content-center">
-        <li class="nav-item">
-          <a class="nav-link" href="#">Privacy policy</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link" href="#">Feedback</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link" href="#">Contact</a>
-        </li>
-      </ul> -->
-      <div class="copy">
-        &copy; Bauhinian Leaflets 2019<br />
-        All rights reserved
-      </div>
-    </div>
-  </footer>
-  
-  <script src="/BauhinianLeaflets/js/bundle.js"></script>
-
-</body>
-</html>
+:ET
