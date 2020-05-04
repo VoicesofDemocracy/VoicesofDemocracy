@@ -1,8 +1,8 @@
-title: "Voices of Democracy"
+title: "Bauhinian_Leaflets"
 
 markdown: kramdown
 url: ""
-baseurl: "/voicesofdemocracy"
+baseurl: "/BauhinianLeaflets"
 disqus_short_name: disqus-demo-page
 
 plugins: 
