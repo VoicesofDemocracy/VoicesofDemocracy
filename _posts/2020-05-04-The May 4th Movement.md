@@ -30,7 +30,7 @@ This was the May 4th Incident, the act that inaugurated one of the greatest soci
 ***
 ***
 
-<img src="{{ site.baseurl }}/img/May4th1919/Students occupy tiananmen square.jpg" width="500"  alt="rallying at tiananmen square. Source: https://www.reddit.com/r/100yearsago/comments/bkgfe6/may_4_1919_over_3000_students_from_universities/">
+<img src="{{ site.baseurl }}/img/May4th1919/Students occupy tiananmen square.jpg" width="450"  alt="rallying at tiananmen square. Source: https://www.reddit.com/r/100yearsago/comments/bkgfe6/may_4_1919_over_3000_students_from_universities/">
 
 Rallying at tiananmen square. 
 
@@ -53,7 +53,7 @@ The May 4th Incident was in **direct opposition** to these long-standing colonia
 ***
 ***
 	
-<img src= "{{ site.baseurl }}/img/May4th1919/students marching with banners.jpg" width="850"  alt="Students marching with banners. Front: 'Vow to fight to return my Qingdao', **Back**: 'Abolish the unfair treaty, abolish the 21st treaty' Source: KK news">
+<img src= "{{ site.baseurl }}/img/May4th1919/students marching with banners.jpg" width="500"  alt="Students marching with banners. Front: 'Vow to fight to return my Qingdao', **Back**: 'Abolish the unfair treaty, abolish the 21st treaty' Source: KK news">
 
 Students marching with banners. 
 
@@ -95,7 +95,7 @@ It was thus that, on May 6th, the first citywide student organisation in Chinese
 ***
 
 
-<img src= "{{ site.baseurl }}/img/May4th1919/Burn_Japanese_goods,_Tsinghua_School,_1919.jpg" width="700"  alt="Students from Tsinghua University burn Japanese goods as a part of their boycotting efforts. Source: Wikimedia Commons">
+<img src= "{{ site.baseurl }}/img/May4th1919/Burn_Japanese_goods,_Tsinghua_School,_1919.jpg" width="500"  alt="Students from Tsinghua University burn Japanese goods as a part of their boycotting efforts. Source: Wikimedia Commons">
 
 Students from Tsinghua University burn Japanese goods as a part of their boycotting efforts. 
 
@@ -135,7 +135,7 @@ However, in the final analysis the driving force of the movement was the bargain
 ***
 ***
 
-<img src= "{{ site.baseurl }}/img/May4th1919/marching.jpg" width="850"  alt="Beijing Students march down the street. Source: https://twitter.com/tongbingxue/status/1256855422855712769/photo/4">
+<img src= "{{ site.baseurl }}/img/May4th1919/marching.jpg" width="500"  alt="Beijing Students march down the street. Source: https://twitter.com/tongbingxue/status/1256855422855712769/photo/4">
 
 Beijing Students march down the street. 
 
@@ -187,7 +187,7 @@ While the New Culture Movement’s project of ‘enlightening’ the masses towa
 ***
 ***
 
-<img src= "{{ site.baseurl }}/img/May4th1919/hk exibition of may 4th flags.jpeg" width="800"  alt="An HK exibition room displaying May 4th banners and Slogans. Source: Quartz:">
+<img src= "{{ site.baseurl }}/img/May4th1919/hk exibition of may 4th flags.jpeg" width="500"  alt="An HK exibition room displaying May 4th banners and Slogans. Source: Quartz:">
 
 An HK exibition room displaying May 4th banners and Slogans. 
 
@@ -210,7 +210,7 @@ Most importantly, the example of the May 4th Movement reveals the potential for 
 ***
 ***
 
-<img src= "{{ site.baseurl }}/img/May4th1919/hello mr democracy.png" width="800"  alt="The spirit of May 4th lived on in 1989. Source: https://www.pinterest.com/pin/338121884516402451/">
+<img src= "{{ site.baseurl }}/img/May4th1919/hello mr democracy.png" width="500"  alt="The spirit of May 4th lived on in 1989. Source: https://www.pinterest.com/pin/338121884516402451/">
 
 The spirit of May 4th lived on in 1989. 
 
@@ -237,7 +237,7 @@ Finally, the ideas of ‘economic democracy’ that the New Culture Movement dev
 
 ***
 
-<img src= "{{ site.baseurl }}/img/May4th1919/HK 2mill march.jpg" width="800"  alt="source: AP Photo/Vincent Yu">
+<img src= "{{ site.baseurl }}/img/May4th1919/HK 2mill march.jpg" width="500"  alt="source: AP Photo/Vincent Yu">
 
 source: AP Photo/Vincent Yu
 
