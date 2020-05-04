@@ -159,7 +159,7 @@ To the New Culture Movement intellectuals, China was sick at its cultural core. 
 ***
 ***
 
-<img src= "{{ site.baseurl }}/img/May4th1919/la jeunesse.jpg" height="800"  alt="New Youth Journal, Source: Wikimedia Commons">
+<img src= "{{ site.baseurl }}/img/May4th1919/la jeunesse.jpg" height="500"  alt="New Youth Journal, Source: Wikimedia Commons">
 
 New Youth Journal
 
