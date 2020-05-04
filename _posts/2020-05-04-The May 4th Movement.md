@@ -23,7 +23,7 @@ The situation comes to a head when the furious students break into the residence
 This was the May 4th Incident, the act that inaugurated one of the greatest social movements in 20th Century China - the anti-imperialist and radically democratic May 4th Movement.
 
 
-<img src= "/voicesofdemocracy/img/May 4th, 1919/Students occupy tiananmen square.jpg" width="850"  alt="rallying at tiananmen square. Source: https://www.reddit.com/r/100yearsago/comments/bkgfe6/may_4_1919_over_3000_students_from_universities/">
+<img src= "/img/May 4th, 1919/Students occupy tiananmen square.jpg" width="850"  alt="rallying at tiananmen square. Source: https://www.reddit.com/r/100yearsago/comments/bkgfe6/may_4_1919_over_3000_students_from_universities/">
 
 
 ### Imperialism and Nationalism:
@@ -35,14 +35,14 @@ News of this development in the “Shandong problem” came off the back of deca
 
 The May 4th Incident was in **direct opposition** to these long-standing colonial practices - hence their slogan of “Protect China’s Sovereignty!” as they marched. The passionately nationalistic students were acting on their frustrations towards China's endemic exploitation at the hands of foreign powers, exemplified by the most recent treatment of Shandong.
 	
-<img src= "/voicesofdemocracy/img/May 4th, 1919/students marching with banners.jpg" width="850"  alt="Students marching with banners. Front: 'Vow to fight to return my Qingdao', Back: 'Abolish the unfair treaty, abolish the 21st treaty' Source: KK news">
+<img src= "/img/May 4th, 1919/students marching with banners.jpg" width="850"  alt="Students marching with banners. Front: 'Vow to fight to return my Qingdao', Back: 'Abolish the unfair treaty, abolish the 21st treaty' Source: KK news">
 
 
 Furthermore, the students’ were not blind in their anti-imperialism; they also held their own government to account for the nation’s weakness. At the time the government in Beijing had been disastrously ineffective for years. The students were living in the immediate aftermath of the _defacto_ collapse of the Republic of China in 1916. In this aftermath warlords - regional military leaders - had emerged to divide the country into their own personal kingdoms. These warlords ruled tyrannically, taxing and looting peasants with extreme violence to raise armies and live in personal luxury. 
 
 The so-called ‘central government’ in Beijing - in reality it had virtually no authority outside of the capital - was completely impotent in controlling the chaos, and repressed the people it did rule. It was this same government that had acquiesced to imperialist powers over Shandong - the ‘National Traitors’ the students were calling out as they marched that day were the pro-Japan officials Cao Rulin, Zhang Zongxiang and Lu Zongyu in the Beijing government who had agreed with the Conference’s decision. Indeed, the official that was beaten that day on May 4th was Zhang Zongxiang; the building that was burned down, his temporary residence, belonged to Cao Rulin.
 
-<img src = "/voicesofdemocracy/img/May 4th, 1919/students at tiananmen.JPG" width="850"  alt="A student holds a banner that calls Cao Rulin a traitor that sells out the country. Source: https://twitter.com/tongbingxue/status/1124575651049066496/photo/1">
+<img src = "/img/May 4th, 1919/students at tiananmen.JPG" width="850"  alt="A student holds a banner that calls Cao Rulin a traitor that sells out the country. Source: https://twitter.com/tongbingxue/status/1124575651049066496/photo/1">
 
 ### The Strike:
 The May 4th Incident, even though it ended in police suppression, was not the end for the students. As we in the modern day Hong Kong democracy movement must be intimately familiar with, police brutality often serves to invigorate rather than frighten, instilling feelings of sympathy and rage that easily translate into action. As with students in Hong Kong today, so with those students in Beijing a century ago - they were driven into action by the same feelings that we are motivated by today.
@@ -51,9 +51,9 @@ The May 4th Incident, even though it ended in police suppression, was not the en
 It was thus that, on May 6th, the first citywide student organisation in Chinese history was formed in Beijing. In the weeks following its creation, the ‘Union of Secondary and Above Students’ worked to organise street speeches, a boycott of Japanese goods, and irregular student strikes. On May 19th its strength was on full display when **25, 000 Beijing students** went on a general student strike in spite of the Beijing government’s increasingly aggressive attempts to crackdown on their activities, including a ramping up of police presence and a ban on student publications.
 
 
-<img src= "/voicesofdemocracy/img/May 4th, 1919/Burn_Japanese_goods,_Tsinghua_School,_1919" width="850"  alt="Students from Tsinghua University burn Japanese goods as a part of their boycotting efforts. Source: Wikimedia Commons">
+<img src= "/img/May 4th, 1919/Burn_Japanese_goods,_Tsinghua_School,_1919" width="850"  alt="Students from Tsinghua University burn Japanese goods as a part of their boycotting efforts. Source: Wikimedia Commons">
 
-<img src= "/voicesofdemocracy/img/May 4th, 1919/may 4th infographic.png" width="850"  alt="Some characteristics of the May 4th movement. Seems pretty similar to another social movement we know">
+<img src= "/img/May 4th, 1919/may 4th infographic.png" width="850"  alt="Some characteristics of the May 4th movement. Seems pretty similar to another social movement we know">
 
 But events in Shanghai soon overtook even these dramatic mobilisation in Beijing. Inspired by the bravery of the Beijing students, as well as horrified by their treatment, it was already on May 6th that students across **33 Shanghai campuses** coordinated to hold a **3, 000 person** rally and march, later forming their own student organisation: ‘the Shanghai Student Union’. The Union was extraordinarily well organised: it drove massive propaganda campaigns to flood the streets with student street-side lectures and tens of thousands of leaflets, hosted extravagant marches and rallies and, following the example of Beijing, coordinated a general student strike on May 26th. Indeed, the discipline of the students themselves for the sake of their cause was nothing short of astonishing: their ideal daily schedules were ruthless and emulated military discipline, including waking up at 6:00AM and spending upwards of six hours each day for political activities while still retaining time for studying.
 
@@ -68,7 +68,7 @@ That is not to say the students did not play a leading role in the strike. While
 
 However, in the final analysis the driving force of the movement was the bargaining power of the workers, which was only guided, not replaced by, the activities of the students.
 
-<img src= "/voicesofdemocracy/img/May 4th, 1919/marching.jpg" width="850"  alt="Beijing Students march down the street. Source: https://twitter.com/tongbingxue/status/1256855422855712769/photo/4">
+<img src= "/img/May 4th, 1919/marching.jpg" width="850"  alt="Beijing Students march down the street. Source: https://twitter.com/tongbingxue/status/1256855422855712769/photo/4">
 
 Despite repressive measures, the strike triumphed in June 10th with the dismissal of the ‘National Traitors’ Cao Rulin, Lu Zongyu and Zhang Zongxiang. Where the mosquito bites of student speeches and class strikes had failed, the economic hammer of a general, working class strike had succeeded. The mood jubilant, the strike ended on June 12th with parades and firecrackers filling the streets of Shanghai.
 
@@ -80,7 +80,7 @@ The roots of the May 4th Movement’s democratic orientation lay in an accompany
 
 To the New Culture Movement intellectuals, China was sick at its cultural core. China’s Confucian and feudal traditions, through their conservative tents of respecting authority and hierarchy, were massive obstacles to creating a democratic egalitarian China. In addition, they smothered the technological innovation that could modernise away China’s economic poverty. Further, the social practices that Chinese culture justified, such as the patriarchal Chinese family, concubinage and foot binding, were viewed as oppressive towards women and individual freedom. All these archaic traditions were to be cast away in favour of the model of the progressive West for the sake of China’s national strength.
 
-<img src= "/voicesofdemocracy/img/May 4th, 1919/la jeunesse.jpg" heigh="500"  alt="New Youth Journal, Source: Wikimedia Commons">
+<img src= "/img/May 4th, 1919/la jeunesse.jpg" heigh="500"  alt="New Youth Journal, Source: Wikimedia Commons">
 
 Chen Duxiu, who founded the _New Youth_ journal that served as a lightning rod for New Culture thought, provided the most famous articulation of the movement’s goals. Chen called for “Mr. Confucius” that had dominated China in the past to be replaced by “Mr. Science” - progressive and reason-based cultural attitudes and technology - and “Mr. Democracy”. This social transformation was to be achieved by an intellectual and cultural “renaissance” within China: unlike the May 4th Movement’s emphasis on political resistance, the New Culture Movement, or at least certain intellectuals within it, preferred to cause change through education and enlightenment.
 
@@ -97,7 +97,7 @@ While the New Culture Movement’s project of ‘enlightening’ the masses towa
 
 ### The May 4th Legacy in China and Hong Kong Today:
 
-<img src= "/voicesofdemocracy/img/May 4th, 1919/hk exibition of may 4th flags.jpeg" width="800"  alt="An HK exibition room displaying May 4th banners and Slogans. Source: Quartz:">
+<img src= "/img/May 4th, 1919/hk exibition of may 4th flags.jpeg" width="800"  alt="An HK exibition room displaying May 4th banners and Slogans. Source: Quartz:">
 
 On May 4th 2019, the centennial anniversary of the beginning of the May 4th Movement, President Xi Jinping gave a speech at Beijing’s Great Hall of People in Tiananmen Square, near where the Beijing student’s had rallied so long ago. He urged Chinese students to learn from the May 4th Movement, claiming that it demonstrated the value of “loving the motherland” and “obeying the party”.
 
@@ -107,7 +107,7 @@ The May 4th Movement was indeed intensely nationalistic, but its nationalism was
 
 Most importantly, the example of the May 4th Movement reveals the potential for mass resistance from Chinese people themselves. One purpose of this historical series is to combat the too often heard view that the Mainland Chinese are ‘brainwashed nationalists’ with no potential for autonomous revolutionary activity. We point out that the May 4th Movement stands as an awkward contradiction to this view. The movement was fueled precisely by nationalism, if with a critical character, and had great achievements despite severe repression from the State. The Hong Kong movement is handicapping itself by accepting Chinese State propaganda of a docile Chinese populace as a fact - this only blinds ourselves to opportunities for the struggle in Hong Kong to fuel a democratic movement like May 4th in Mainland China. 
 
-<img src= "/voicesofdemocracy/img/May 4th, 1919/hello mr democracy.png" width="800"  alt="The spirit of May 4th lived on in 1989. Source: https://www.pinterest.com/pin/338121884516402451/">
+<img src= "/img/May 4th, 1919/hello mr democracy.png" width="800"  alt="The spirit of May 4th lived on in 1989. Source: https://www.pinterest.com/pin/338121884516402451/">
 
 Furthermore, rather than impulsively opposing everything ‘Chinese’ in our struggle against the CCP, we in Hong Kong should claim the May 4th Movement for ourselves. The Hong Kong people are Chinese, not because we subordinate ourselves to the CCP, or because we have a homogenous culture, but because we are the true legacy of progressive Chinese movement’s like the May 4th Movement.
 
@@ -123,7 +123,7 @@ Finally, the ideas of ‘economic democracy’ that the New Culture Movement dev
 
 
 
-<img src= "/voicesofdemocracy/img/May 4th, 1919/HK 2mill march.jpg" width="800"  alt="source: AP Photo/Vincent Yu">
+<img src= "/img/May 4th, 1919/HK 2mill march.jpg" width="800"  alt="source: AP Photo/Vincent Yu">
 
 
 
