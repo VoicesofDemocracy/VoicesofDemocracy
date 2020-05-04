@@ -1,4 +1,4 @@
-I"Ï<p>Hello</p>
+I"Î<p>Hello</p>
 
 <p>Text can be <strong>bold</strong>, <em>italic</em>, <del>strikethrough</del> or <code class="highlighter-rouge">keyword</code></p>
 
@@ -36,7 +36,7 @@ When something is important enough, you do it even if the odds are not in your f
   <span class="n">s</span><span class="p">.</span><span class="nf">add_dependency</span><span class="p">(</span><span class="n">gem</span><span class="p">,</span> <span class="s2">"= </span><span class="si">#{</span><span class="n">version</span><span class="si">}</span><span class="s2">"</span><span class="p">)</span>
 <span class="k">end</span>
 </code></pre></div></div>
-<p><img src="/voicesofdemocracy/img/TEARGAS.jpg" alt="teargas in Hong Kong" /></p>
+<p><img src="BauhinianLeaflets/img/TEARGAS.jpg" alt="teargas in Hong Kong" /></p>
 
 <h4 id="header-4">Header 4</h4>
 

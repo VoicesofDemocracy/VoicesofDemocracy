@@ -46,7 +46,7 @@ GitHubPages::Dependencies.gems.each do |gem, version|
   s.add_dependency(gem, "= #{version}")
 end
 ```
-![teargas in Hong Kong](/voicesofdemocracy/img/TEARGAS.jpg) 
+![teargas in Hong Kong](BauhinianLeaflets/img/TEARGAS.jpg) 
 
 
 
