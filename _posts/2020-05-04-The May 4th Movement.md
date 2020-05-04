@@ -73,7 +73,11 @@ The so-called ‘central government’ in Beijing - in reality it had virtually 
 ***
 ***
 
+<img src= "{{ site.baseurl }}/img/May4th1919/Traitor caorulin poster.jpg" width="500"  alt="A student holds a banner that calls Cao Rulin a traitor that sells out the country. Source: https://twitter.com/tongbingxue/status/1124575651049066496/photo/1">
 
+A student holds a banner that calls Cao Rulin a traitor that sells out the country. 
+
+Source: https://twitter.com/tongbingxue/status/1124575651049066496/photo/1
 
 ***
 ***
