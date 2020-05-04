@@ -23,7 +23,7 @@ The situation comes to a head when the furious students break into the residence
 This was the May 4th Incident, the act that inaugurated one of the greatest social movements in 20th Century China - the anti-imperialist and radically democratic May 4th Movement.
 
 
-<img src= "BauhinianLeaflets/img/May4th1919/Students occupy tiananmen square.jpg" width="850"  alt="rallying at tiananmen square. Source: https://www.reddit.com/r/100yearsago/comments/bkgfe6/may_4_1919_over_3000_students_from_universities/">
+<img src= "BauhinianLeaflets/img/May4th1919/Students occupy tiananmen square.jpg" width="850"  alt="rallying at tiananmen square. Source: https://www.reddit.com/r/100yearsago/comments/bkgfe6/may_4_1919_over_3000_students_from_universities/"/>
 
 
 ### Imperialism and Nationalism:
