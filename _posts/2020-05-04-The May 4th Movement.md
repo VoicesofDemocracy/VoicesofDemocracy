@@ -15,7 +15,7 @@ source: https://twitter.com/tongbingxue/status/1256855422855712769/photo/3
 ### The Birth of a Movement:
 The date is May 4th, 1919. Over 4, 000 students from universities and colleges all around Beijing are marching in coordinated effort towards Tiananmen Square. As they march their aggressive political slogans fill the air: 
 
-####                                      **“外爭主權，內除國賊**  
+####                                      **“外爭主權，內除國賊”**  
 
 ####                **“Protect China’s Sovereignty!”**   **“Get rid of the National Traitors!”**
 
