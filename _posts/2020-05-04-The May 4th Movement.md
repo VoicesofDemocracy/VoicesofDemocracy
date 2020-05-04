@@ -53,7 +53,7 @@ The May 4th Incident was in **direct opposition** to these long-standing colonia
 ***
 ***
 	
-<img src= "{{ site.baseurl }}/img/May4th1919/students marching with banners.jpg" width="850"  alt="Students marching with banners. Front: 'Vow to fight to return my Qingdao', Back: 'Abolish the unfair treaty, abolish the 21st treaty' Source: KK news">
+<img src= "{{ site.baseurl }}/img/May4th1919/students marching with banners.jpg" width="850"  alt="Students marching with banners. Front: 'Vow to fight to return my Qingdao', **Back**: 'Abolish the unfair treaty, abolish the 21st treaty' Source: KK news">
 
 Students marching with banners. 
 
