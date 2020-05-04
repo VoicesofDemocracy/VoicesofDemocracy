@@ -23,7 +23,7 @@ The situation comes to a head when the furious students break into the residence
 This was the May 4th Incident, the act that inaugurated one of the greatest social movements in 20th Century China - the anti-imperialist and radically democratic May 4th Movement.
 
 
-<img src= "/voicesofdemocracy/img/May 4th, 1919/students occupy tiananmen square.jpg" width="850"  alt="rallying at tiananmen square. Source: https://www.reddit.com/r/100yearsago/comments/bkgfe6/may_4_1919_over_3000_students_from_universities/">
+<img src= "/voicesofdemocracy/img/May 4th, 1919/Students occupy tiananmen square.jpg" width="850"  alt="rallying at tiananmen square. Source: https://www.reddit.com/r/100yearsago/comments/bkgfe6/may_4_1919_over_3000_students_from_universities/">
 
 
 ### Imperialism and Nationalism:
@@ -42,7 +42,7 @@ Furthermore, the students’ were not blind in their anti-imperialism; they also
 
 The so-called ‘central government’ in Beijing - in reality it had virtually no authority outside of the capital - was completely impotent in controlling the chaos, and repressed the people it did rule. It was this same government that had acquiesced to imperialist powers over Shandong - the ‘National Traitors’ the students were calling out as they marched that day were the pro-Japan officials Cao Rulin, Zhang Zongxiang and Lu Zongyu in the Beijing government who had agreed with the Conference’s decision. Indeed, the official that was beaten that day on May 4th was Zhang Zongxiang; the building that was burned down, his temporary residence, belonged to Cao Rulin.
 
-<img src= "/voicesofdemocracy/img/May 4th, 1919/students at tiananmen.jpg" width="850"  alt="A student holds a banner that calls Cao Rulin a traitor that sells out the country. Source: https://twitter.com/tongbingxue/status/1124575651049066496/photo/1">
+<img src = "/voicesofdemocracy/img/May 4th, 1919/students at tiananmen.JPG" width="850"  alt="A student holds a banner that calls Cao Rulin a traitor that sells out the country. Source: https://twitter.com/tongbingxue/status/1124575651049066496/photo/1">
 
 ### The Strike:
 The May 4th Incident, even though it ended in police suppression, was not the end for the students. As we in the modern day Hong Kong democracy movement must be intimately familiar with, police brutality often serves to invigorate rather than frighten, instilling feelings of sympathy and rage that easily translate into action. As with students in Hong Kong today, so with those students in Beijing a century ago - they were driven into action by the same feelings that we are motivated by today.

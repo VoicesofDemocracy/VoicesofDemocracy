@@ -1,4 +1,6 @@
-I"®<p>Text can be <strong>bold</strong>, <em>italic</em>, <del>strikethrough</del> or <code class="highlighter-rouge">keyword</code></p>
+I"Ï<p>Hello</p>
+
+<p>Text can be <strong>bold</strong>, <em>italic</em>, <del>strikethrough</del> or <code class="highlighter-rouge">keyword</code></p>
 
 <p><a href="./another-page.html">Link to another page</a>.</p>
 
@@ -13,12 +15,12 @@
 <h2 id="header-2">Header 2</h2>
 
 <blockquote>
-  <p>This is a blockquote following a header.</p>
-
-  <p>When something is important enough, you do it even if the odds are not in your favor.</p>
+  <p>This is a blockquote following a header.
+Hi
+When something is important enough, you do it even if the odds are not in your favor.</p>
 </blockquote>
 
-<p>!<img src="/voicesofdemocracy/img/TEARGAS.jpg" width="850" /></p>
+<p><img src="/voicesofdemocracy/img/TEARGAS.jpg" width="850" alt="teargas in Hong Kong" /></p>
 
 <h3 id="header-3">Header 3</h3>
 
