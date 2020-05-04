@@ -30,7 +30,7 @@ This was the May 4th Incident, the act that inaugurated one of the greatest soci
 ***
 ***
 
-<img src="{{ site.baseurl }}/img/May4th1919/Students occupy tiananmen square.jpg" width="850"  alt="rallying at tiananmen square. Source: https://www.reddit.com/r/100yearsago/comments/bkgfe6/may_4_1919_over_3000_students_from_universities/">
+<img src="{{ site.baseurl }}/img/May4th1919/Students occupy tiananmen square.jpg" width="500"  alt="rallying at tiananmen square. Source: https://www.reddit.com/r/100yearsago/comments/bkgfe6/may_4_1919_over_3000_students_from_universities/">
 
 Rallying at tiananmen square. 
 
