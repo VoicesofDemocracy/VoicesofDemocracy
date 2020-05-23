@@ -1,5 +1,5 @@
 ---
-title: Leaflet - A National Security Law and responding with General Strikes
+title: Leaflet - The National Security Law and responding with General Strikes
 layout: post
 date: 2020-05-04
 description: 
@@ -14,6 +14,8 @@ This text is from an actual "bauhinan leaflet" produced and handed out.
 ***
 
 ## For A General Strike
+
+***
 
 ### Our Situation, Precisely:
 _Based on available information at time of writing (23/5)._
