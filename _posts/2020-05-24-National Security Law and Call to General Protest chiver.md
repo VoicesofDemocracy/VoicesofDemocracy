@@ -1,5 +1,5 @@
 ---
-title: Leaflet - The National Security Law and responding with General Strikes
+title: 冊子 - 國安法及響應大罷工
 layout: post
 date: 2020-05-24
 description: 
@@ -7,7 +7,7 @@ image: NSL Leaf/Chinese Post.png
 categories: ["National Security Law"] 
 ---
 
-This text is from an actual "bauhinan leaflet" produced and handed out.
+這段文字是經由“Bauhinian Leaflet”製作及派發。
 
 ***
 ***
