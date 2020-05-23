@@ -3,7 +3,7 @@ title: Leaflet - The National Security Law and responding with General Strikes
 layout: post
 date: 2020-05-24
 description: 
-image: NSL Leaf/English.png
+image: NSL Leaf/Chinese Post.png
 categories: ["National Security Law"] 
 ---
 
