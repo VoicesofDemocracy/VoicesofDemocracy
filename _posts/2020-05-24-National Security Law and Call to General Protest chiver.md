@@ -3,7 +3,7 @@ title: 冊子 - 國安法及響應大罷工
 layout: post
 date: 2020-05-24
 description: 
-image: NSL Leaf/Chinese Post.png
+image: NSL Leaf/Chinese.png
 categories: ["National Security Law"] 
 ---
 
