@@ -15,6 +15,8 @@ This text is from an actual "bauhinan leaflet" produced and handed out.
 
 ## 罷工救港
 
+***
+
 ### 我們現時的狀況：
 _此資訊是根據我們目前知道的內容來撰寫。_
 ***
