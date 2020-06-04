@@ -17,18 +17,15 @@ The question now becomes one of **HOW**: how can we birth a general strike, how 
 
 This pamphlet will attempt to answer these questions.
 
-*
-*
-*
+
+
+
 
 ### Birthing a General Strike:
 A general strike cannot be begged into existence, especially in Hong Kong’s economic and cultural conditions. It can only be birthed from a foundation of coordinated organisations.
 
 This coordination must come from two groups: the workers and students. These two must work in unity.
 
-*
-*
-*
 
 ##### The Workers: 
 Pro-democracy trade unions are the form of organisation for the workers. They must be the ones to call the general strike, and their membership must be the first to participate in it.
