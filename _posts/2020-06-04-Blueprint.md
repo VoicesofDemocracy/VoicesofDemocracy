@@ -1,10 +1,10 @@
 ---
-title: The spirit of the May 4th movement 
+title: A Blueprint for Hong Kong on Strike 
 layout: post
-date: 2020-05-04
+date: 2020-06-04
 description: 
-image: May4th1919/students at tiananmen.jpg
-categories: ["Chinese Revolutions"] 
+image: 
+categories: ["Theory"] 
 ---
 
 ## A Blueprint for Hong Kong on Strike
